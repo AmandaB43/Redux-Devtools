@@ -1,0 +1,11 @@
+Add a to-do item with addTodo
+
+Remove a to-do item with removeTodo
+Clear all to-do items with clearTodos
+On the React end, we will need to build:
+
+A to-do list component
+A form to handle adding a list item
+Render the list
+A "clear" button
+Make sure to update App.js with your todo component
